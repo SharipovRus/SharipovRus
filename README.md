@@ -1,11 +1,10 @@
-## Привет, меня зовут Руслан! 👋
+## Hi, my name is Ruslan! 👋
 
-Я начинающий специалист по Data Science.  
-Стараюсь писать чистый и понятный код :)
+I create games in Unity :)
 
-Увлекаюсь баскетболом, чтением и путешествиями.
+Here I keep some of my works, as well as additional works that I did in the courses on Data Science
 
 
-### 📱 Контакты для связи со мной:
+### 📱Contact me:
 * Telegram: https://t.me/shaaarip
-* Email: shaaaripov@yandex.ru
+* Email: sharipovra94@gmail.com
